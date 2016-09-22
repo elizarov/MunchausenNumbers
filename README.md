@@ -14,13 +14,14 @@ on the topic.
 The answer
 ==========
 
-The are only three hexadecimal Münchausen numbers: 1, c4ef722b782c26f, and c76712ffc311e6e.
+There are only three hexadecimal Münchausen numbers: 1, c4ef722b782c26f, and c76712ffc311e6e.
 Answers for other bases up to 16 can be found in the [output.txt](output.txt) file.
 
-An algorithm
-============
+The algorithm
+=============
 
-In short, the algorithm in an exhaustive search with a variation of meet-in-the middle 
+In short, the algorithm in an exhaustive search with a variation of 
+[meet-in-the-middle](http://www.geeksforgeeks.org/meet-in-the-middle/) 
 optimization to prune it.
 
 For each base _b_, we solve separately for numbers with one, two, etc digits. 
@@ -65,7 +66,7 @@ Why Kotlin
 The code is written in Kotlin, because it is concise and pragmatic. In order to truly
 check all hexadecimals numbers up to a proven limit of 2*16^16 we need to working with
 numbers larger than 64 bits. In order to do this, Int96 class is implemented together
-with all the arithmetic we need, and Kotlin gives us ability to define our own 
+with all the arithmetic we need. Kotlin gives us ability to define our own 
 operators and helper methods in such a way, as to make the main code quite readable
 despite some duplication we needed to do for performance reasons. The checks are
 actually performed in 64-bit longs if the balances fit there, so there are two
