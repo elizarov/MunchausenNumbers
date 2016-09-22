@@ -1,0 +1,195 @@
+C:\Java\jdk1.8.0_60\bin\java -Didea.launcher.port=7533 "-Didea.launcher.bin.path=C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.2.1\bin" -Dfile.encoding=UTF-8 -classpath "C:\Java\jdk1.8.0_60\jre\lib\charsets.jar;C:\Java\jdk1.8.0_60\jre\lib\deploy.jar;C:\Java\jdk1.8.0_60\jre\lib\javaws.jar;C:\Java\jdk1.8.0_60\jre\lib\jce.jar;C:\Java\jdk1.8.0_60\jre\lib\jfr.jar;C:\Java\jdk1.8.0_60\jre\lib\jfxswt.jar;C:\Java\jdk1.8.0_60\jre\lib\jsse.jar;C:\Java\jdk1.8.0_60\jre\lib\management-agent.jar;C:\Java\jdk1.8.0_60\jre\lib\plugin.jar;C:\Java\jdk1.8.0_60\jre\lib\resources.jar;C:\Java\jdk1.8.0_60\jre\lib\rt.jar;C:\Java\jdk1.8.0_60\jre\lib\ext\access-bridge-64.jar;C:\Java\jdk1.8.0_60\jre\lib\ext\cldrdata.jar;C:\Java\jdk1.8.0_60\jre\lib\ext\dnsns.jar;C:\Java\jdk1.8.0_60\jre\lib\ext\jaccess.jar;C:\Java\jdk1.8.0_60\jre\lib\ext\jfxrt.jar;C:\Java\jdk1.8.0_60\jre\lib\ext\localedata.jar;C:\Java\jdk1.8.0_60\jre\lib\ext\nashorn.jar;C:\Java\jdk1.8.0_60\jre\lib\ext\sunec.jar;C:\Java\jdk1.8.0_60\jre\lib\ext\sunjce_provider.jar;C:\Java\jdk1.8.0_60\jre\lib\ext\sunmscapi.jar;C:\Java\jdk1.8.0_60\jre\lib\ext\sunpkcs11.jar;C:\Java\jdk1.8.0_60\jre\lib\ext\zipfs.jar;C:\Projects\MunchausenNumbers\out\production\MunchausenNumbers;C:\Projects\MunchausenNumbers\lib\kotlin-runtime.jar;C:\Projects\MunchausenNumbers\lib\kotlin-reflect.jar;C:\Projects\MunchausenNumbers\lib\junit-4.12.jar;C:\Projects\MunchausenNumbers\lib\hamcrest-core-1.3.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.2.1\lib\idea_rt.jar" com.intellij.rt.execution.application.AppMain MunchausenNumbersKt
+MünchausenNumbers for base 2
+  = Answers with 1 digits: [1] in 38+3 ms, set 0.0%
+  = Answers with 2 digits: [10] in 0+0 ms, set 0.0%
+  = Answers with 3 digits: [] in 1+0 ms, set 0.0%
+  All numbers in base 2: [1, 10]
+
+MünchausenNumbers for base 3
+  = Answers with 1 digits: [1] in 1+0 ms, set 0.0%
+  = Answers with 2 digits: [12, 22] in 3+0 ms, set 0.0%
+  = Answers with 3 digits: [] in 1+0 ms, set 0.0%
+  = Answers with 4 digits: [] in 1+0 ms, set 0.0%
+  All numbers in base 3: [1, 12, 22]
+
+MünchausenNumbers for base 4
+  = Answers with 1 digits: [1] in 0+0 ms, set 0.0%
+  = Answers with 2 digits: [] in 1+0 ms, set 0.0%
+  = Answers with 3 digits: [131, 313] in 1+0 ms, set 0.0%
+  = Answers with 4 digits: [] in 1+1 ms, set 0.0%
+  = Answers with 5 digits: [] in 2+0 ms, set 0.0%
+  All numbers in base 4: [1, 131, 313]
+
+MünchausenNumbers for base 5
+  = Answers with 1 digits: [1] in 1+0 ms, set 0.0%
+  = Answers with 2 digits: [] in 0+0 ms, set 0.0%
+  = Answers with 3 digits: [] in 0+0 ms, set 0.0%
+  = Answers with 4 digits: [] in 2+0 ms, set 0.0%
+  = Answers with 5 digits: [] in 6+1 ms, set 0.01%
+  = Answers with 6 digits: [] in 22+0 ms, set 0.07%
+  All numbers in base 5: [1]
+
+MünchausenNumbers for base 6
+  = Answers with 1 digits: [1] in 2+0 ms, set 0.0%
+  = Answers with 2 digits: [] in 1+0 ms, set 0.0%
+  = Answers with 3 digits: [] in 1+0 ms, set 0.0%
+  = Answers with 4 digits: [] in 1+0 ms, set 0.0%
+  = Answers with 5 digits: [22352, 23452] in 12+1 ms, set 0.04%
+  = Answers with 6 digits: [] in 13+0 ms, set 0.23%
+  = Answers with 7 digits: [] in 38+1 ms, set 1.39%
+  All numbers in base 6: [1, 22352, 23452]
+
+MünchausenNumbers for base 7
+  = Answers with 1 digits: [1] in 1+0 ms, set 0.0%
+  = Answers with 2 digits: [] in 0+0 ms, set 0.0%
+  = Answers with 3 digits: [] in 1+0 ms, set 0.0%
+  = Answers with 4 digits: [] in 1+0 ms, set 0.01%
+  = Answers with 5 digits: [13454] in 3+0 ms, set 0.11%
+  = Answers with 6 digits: [] in 29+0 ms, set 0.65%
+  = Answers with 7 digits: [] in 238+1 ms, set 4.04%
+  = Answers with 8 digits: [] in 365+1 ms, set 28.18%
+  All numbers in base 7: [1, 13454]
+
+MünchausenNumbers for base 8
+  = Answers with 1 digits: [1] in 0+0 ms, set 0.0%
+  = Answers with 2 digits: [] in 1+0 ms, set 0.0%
+  = Answers with 3 digits: [] in 0+0 ms, set 0.0%
+  = Answers with 4 digits: [] in 0+0 ms, set 0.03%
+  = Answers with 5 digits: [] in 2+0 ms, set 0.23%
+  = Answers with 6 digits: [] in 16+0 ms, set 1.72%
+  = Answers with 7 digits: [] in 104+0 ms, set 11.6%
+  = Answers with 8 digits: [] in 884+0 ms, set 68.65%
+  = Answers with 9 digits: [] in 2294+0 ms, set 99.99%
+  All numbers in base 8: [1]
+
+MünchausenNumbers for base 9
+  = Answers with 1 digits: [1] in 1+0 ms, set 0.0%
+  = Answers with 2 digits: [31] in 0+0 ms, set 0.0%
+  = Answers with 3 digits: [] in 1+0 ms, set 0.0%
+  = Answers with 4 digits: [] in 0+0 ms, set 0.05%
+  = Answers with 5 digits: [] in 4+0 ms, set 0.44%
+  = Answers with 6 digits: [156262] in 32+0 ms, set 3.87%
+  = Answers with 7 digits: [1656547] in 162+0 ms, set 30.19%
+  = Answers with 8 digits: [] in 1172+0 ms, set 96.05%
+  = Answers with 9 digits: [] in 3022+0 ms, set all 100.0%
+  = Answers with 10 digits: [] in 0+0 ms, set all 100.0%
+  All numbers in base 9: [1, 31, 156262, 1656547]
+
+MünchausenNumbers for base 10
+  = Answers with 1 digits: [1] in 0+0 ms, set 0.0%
+  = Answers with 2 digits: [] in 0+0 ms, set 0.0%
+  = Answers with 3 digits: [] in 0+0 ms, set 0.0%
+  = Answers with 4 digits: [3435] in 1+0 ms, set 0.07%
+  = Answers with 5 digits: [] in 5+0 ms, set 0.78%
+  = Answers with 6 digits: [] in 46+0 ms, set 7.54%
+  = Answers with 7 digits: [] in 390+0 ms, set 54.76%
+  = Answers with 8 digits: [] in 2051+0 ms, set 99.96%
+  = Answers with 9 digits: [] in 2894+2 ms, set all 100.0%
+  = Answers with 10 digits: [] in 0+2 ms, set all 100.0%
+  = Answers with 11 digits: [] in 0+5 ms (par), set all 100.0%
+  All numbers in base 10: [1, 3435]
+
+MünchausenNumbers for base 11
+  = Answers with 1 digits: [1] in 0+0 ms, set 0.0%
+  = Answers with 2 digits: [] in 1+0 ms, set 0.0%
+  = Answers with 3 digits: [] in 0+0 ms, set 0.01%
+  = Answers with 4 digits: [] in 2+0 ms, set 0.11%
+  = Answers with 5 digits: [] in 11+0 ms, set 1.25%
+  = Answers with 6 digits: [] in 93+0 ms, set 12.99%
+  = Answers with 7 digits: [] in 709+0 ms, set 76.91%
+  = Answers with 8 digits: [18453278, 18453487] in 2945+0 ms, set 99.99%
+  = Answers with 9 digits: [] in 3128+1 ms, set all 100.0%
+  = Answers with 10 digits: [] in 0+4 ms, set all 100.0%
+  = Answers with 11 digits: [] in 0+5 ms (par), set all 100.0%
+  = Answers with 12 digits: [] in 0+0 ms (par), set all 100.0%
+  All numbers in base 11: [1, 18453278, 18453487]
+
+MünchausenNumbers for base 12
+  = Answers with 1 digits: [1] in 0+0 ms, set 0.0%
+  = Answers with 2 digits: [] in 0+0 ms, set 0.0%
+  = Answers with 3 digits: [] in 1+0 ms, set 0.01%
+  = Answers with 4 digits: [] in 1+0 ms, set 0.16%
+  = Answers with 5 digits: [] in 14+0 ms, set 1.95%
+  = Answers with 6 digits: [] in 144+0 ms, set 21.12%
+  = Answers with 7 digits: [] in 1127+0 ms, set 94.05%
+  = Answers with 8 digits: [] in 3545+0 ms, set all 100.0%
+  = Answers with 9 digits: [] in 0+1 ms, set all 100.0%
+  = Answers with 10 digits: [3a67a54832] in 0+8 ms, set all 100.0%
+  = Answers with 11 digits: [] in 0+59 ms (par), set all 100.0%
+  = Answers with 12 digits: [] in 0+53 ms (par), set all 100.0%
+  = Answers with 13 digits: [] in 0+0 ms (par), set all 100.0%
+  All numbers in base 12: [1, 3a67a54832]
+
+MünchausenNumbers for base 13
+  = Answers with 1 digits: [1] in 0+0 ms, set 0.0%
+  = Answers with 2 digits: [] in 0+0 ms, set 0.0%
+  = Answers with 3 digits: [] in 0+0 ms, set 0.01%
+  = Answers with 4 digits: [] in 2+0 ms, set 0.2%
+  = Answers with 5 digits: [33661] in 20+0 ms, set 2.66%
+  = Answers with 6 digits: [] in 272+0 ms, set 28.78%
+  = Answers with 7 digits: [] in 1712+0 ms, set 96.38%
+  = Answers with 8 digits: [] in 3792+1 ms, set all 100.0%
+  = Answers with 9 digits: [] in 0+1 ms, set all 100.0%
+  = Answers with 10 digits: [2aa834668a] in 0+12 ms, set all 100.0%
+  = Answers with 11 digits: [] in 0+105 ms (par), set all 100.0%
+  = Answers with 12 digits: [4ca92a233518, 4ca92a233538] in 0+2149 ms (par), set all 100.0%
+  = Answers with 13 digits: [] in 0+2595 ms (par), set all 100.0%
+  = Answers with 14 digits: [] in 0+0 ms (par), set all 100.0%
+  All numbers in base 13: [1, 33661, 2aa834668a, 4ca92a233518, 4ca92a233538]
+
+MünchausenNumbers for base 14
+  = Answers with 1 digits: [1] in 0+0 ms, set 0.0%
+  = Answers with 2 digits: [23] in 0+0 ms, set 0.0%
+  = Answers with 3 digits: [] in 0+0 ms, set 0.02%
+  = Answers with 4 digits: [] in 4+0 ms, set 0.3%
+  = Answers with 5 digits: [26036] in 84+0 ms, set 4.24%
+  = Answers with 6 digits: [] in 466+0 ms, set 45.47%
+  = Answers with 7 digits: [] in 2448+0 ms, set 99.97%
+  = Answers with 8 digits: [] in 3996+0 ms, set all 100.0%
+  = Answers with 9 digits: [] in 0+1 ms, set all 100.0%
+  = Answers with 10 digits: [] in 0+16 ms, set all 100.0%
+  = Answers with 11 digits: [] in 0+141 ms (par), set all 100.0%
+  = Answers with 12 digits: [45a0a04513cc] in 0+3077 ms (par), set all 100.0%
+  = Answers with 13 digits: [a992b5d96720d] in 0+58154 ms (par), set all 100.0%
+  = Answers with 14 digits: [] in 0+60139 ms (par), set all 100.0%
+  = Answers with 15 digits: [] in 0+0 ms (par), set all 100.0%
+  All numbers in base 14: [1, 23, 26036, 45a0a04513cc, a992b5d96720d]
+
+MünchausenNumbers for base 15
+  = Answers with 1 digits: [1] in 57+4 ms, set 0.0%
+  = Answers with 2 digits: [] in 15+0 ms, set 0.0%
+  = Answers with 3 digits: [] in 20+0 ms, set 0.0%
+  = Answers with 4 digits: [] in 42+0 ms, set 0.02%
+  = Answers with 5 digits: [] in 392+0 ms, set 0.32%
+  = Answers with 6 digits: [] in 4576+0 ms, set 4.68%
+  = Answers with 7 digits: [] in 15469+0 ms, set 49.78%
+  = Answers with 8 digits: [] in 119628+1 ms, set 99.96%
+  = Answers with 9 digits: [] in 221419+6 ms, set all 100.0%
+  = Answers with 10 digits: [] in 0+20 ms, set all 100.0%
+  = Answers with 11 digits: [] in 0+81 ms, set all 100.0%
+  = Answers with 12 digits: [] in 0+554 ms (par), set all 100.0%
+  = Answers with 13 digits: [4b1648420dcd0] in 0+12561 ms (par), set all 100.0%
+  = Answers with 14 digits: [5a99e538339a43, 5acbc41c19e333, 5acbc41c19e400, 5d0b197c25e056] in 0+279302 ms (par), set all 100.0%
+  = Answers with 15 digits: [] in 0+324641 ms (par), set all 100.0%
+  = Answers with 16 digits: [] in 0+0 ms (par), set all 100.0%
+  All numbers in base 15: [1, 4b1648420dcd0, 5a99e538339a43, 5acbc41c19e333, 5acbc41c19e400, 5d0b197c25e056]
+
+MünchausenNumbers for base 16
+  = Answers with 1 digits: [1] in 46+3 ms, set 0.0%
+  = Answers with 2 digits: [] in 12+0 ms, set 0.0%
+  = Answers with 3 digits: [] in 19+0 ms, set 0.0%
+  = Answers with 4 digits: [] in 42+0 ms, set 0.02%
+  = Answers with 5 digits: [] in 429+0 ms, set 0.44%
+  = Answers with 6 digits: [] in 4327+0 ms, set 6.87%
+  = Answers with 7 digits: [] in 14444+0 ms, set 67.86%
+  = Answers with 8 digits: [] in 82009+1 ms, set 99.99%
+  = Answers with 9 digits: [] in 98729+6 ms, set all 100.0%
+  = Answers with 10 digits: [] in 1+27 ms, set all 100.0%
+  = Answers with 11 digits: [] in 0+98 ms, set all 100.0%
+  = Answers with 12 digits: [] in 0+591 ms (par), set all 100.0%
+  = Answers with 13 digits: [] in 0+14342 ms (par), set all 100.0%
+  = Answers with 14 digits: [] in 0+354748 ms (par), set all 100.0%
+  = Answers with 15 digits: [c4ef722b782c26f, c76712ffc311e6e] in 0+8750414 ms (par), set all 100.0%
+  = Answers with 16 digits: [] in 0+10790440 ms (par), set all 100.0%
+  = Answers with 17 digits: [] in 0+0 ms (par), set all 100.0%
+  All numbers in base 16: [1, c4ef722b782c26f, c76712ffc311e6e]
